@@ -1,3 +1,4 @@
+[![Build Status](https://kehilli.visualstudio.com/cicd/_apis/build/status/cicd-CI?branchName=master)](https://kehilli.visualstudio.com/cicd/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
